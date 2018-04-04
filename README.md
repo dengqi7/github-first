@@ -1,0 +1,2 @@
+# github-first
+FIST GITHUB PROJECT CREADED BY IDEA
